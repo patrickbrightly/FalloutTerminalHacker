@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/patrickbrightly/FalloutTerminalHacker/static/js/main.b8f6539a.chunk.js",
-    "main.js.map": "/patrickbrightly/FalloutTerminalHacker/static/js/main.b8f6539a.chunk.js.map",
-    "runtime-main.js": "/patrickbrightly/FalloutTerminalHacker/static/js/runtime-main.82d73274.js",
-    "runtime-main.js.map": "/patrickbrightly/FalloutTerminalHacker/static/js/runtime-main.82d73274.js.map",
-    "static/css/2.d9ad5f5c.chunk.css": "/patrickbrightly/FalloutTerminalHacker/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.1e75347e.chunk.js": "/patrickbrightly/FalloutTerminalHacker/static/js/2.1e75347e.chunk.js",
-    "static/js/2.1e75347e.chunk.js.map": "/patrickbrightly/FalloutTerminalHacker/static/js/2.1e75347e.chunk.js.map",
-    "index.html": "/patrickbrightly/FalloutTerminalHacker/index.html",
-    "precache-manifest.a3884b3ce091abca445fd4a85c0b1abf.js": "/patrickbrightly/FalloutTerminalHacker/precache-manifest.a3884b3ce091abca445fd4a85c0b1abf.js",
-    "service-worker.js": "/patrickbrightly/FalloutTerminalHacker/service-worker.js",
-    "static/css/2.d9ad5f5c.chunk.css.map": "/patrickbrightly/FalloutTerminalHacker/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/js/2.1e75347e.chunk.js.LICENSE.txt": "/patrickbrightly/FalloutTerminalHacker/static/js/2.1e75347e.chunk.js.LICENSE.txt"
+    "main.js": "/FalloutTerminalHacker/static/js/main.b8f6539a.chunk.js",
+    "main.js.map": "/FalloutTerminalHacker/static/js/main.b8f6539a.chunk.js.map",
+    "runtime-main.js": "/FalloutTerminalHacker/static/js/runtime-main.d7fc396e.js",
+    "runtime-main.js.map": "/FalloutTerminalHacker/static/js/runtime-main.d7fc396e.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/FalloutTerminalHacker/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.1e75347e.chunk.js": "/FalloutTerminalHacker/static/js/2.1e75347e.chunk.js",
+    "static/js/2.1e75347e.chunk.js.map": "/FalloutTerminalHacker/static/js/2.1e75347e.chunk.js.map",
+    "index.html": "/FalloutTerminalHacker/index.html",
+    "precache-manifest.cd02d130776d8551210df6df5f70be0d.js": "/FalloutTerminalHacker/precache-manifest.cd02d130776d8551210df6df5f70be0d.js",
+    "service-worker.js": "/FalloutTerminalHacker/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/FalloutTerminalHacker/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/js/2.1e75347e.chunk.js.LICENSE.txt": "/FalloutTerminalHacker/static/js/2.1e75347e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.82d73274.js",
+    "static/js/runtime-main.d7fc396e.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.1e75347e.chunk.js",
     "static/js/main.b8f6539a.chunk.js"
