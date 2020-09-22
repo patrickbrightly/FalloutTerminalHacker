@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/FalloutTerminalHacker/precache-manifest.a71234a465aa66d70fb9c69aa751bab8.js"
+  "/FalloutTerminalHacker/precache-manifest.580d9c84d0464fe4fdc6cf575be4e859.js"
 );
 
 self.addEventListener('message', (event) => {
