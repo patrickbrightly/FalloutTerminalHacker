@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de863e3c9482744433b98b33958740cb",
+    "revision": "48e6b62889aaa1bfd81d392b19adf487",
     "url": "/FalloutTerminalHacker/index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FalloutTerminalHacker/static/js/2.58738009.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9e21fc705d687e0bb463",
-    "url": "/FalloutTerminalHacker/static/js/main.b0626e05.chunk.js"
+    "revision": "d32d988df6ab9d68f6ee",
+    "url": "/FalloutTerminalHacker/static/js/main.3fba13af.chunk.js"
   },
   {
     "revision": "5879d0516bb0fc9d362b",
